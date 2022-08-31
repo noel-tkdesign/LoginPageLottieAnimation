@@ -1,6 +1,3 @@
 # LoginPageLottieAnimation
-LottieのPackageをXcodeにインストールしてください.  
-Install the Lottie Package in Xcode.  
-
-
+Lottieを使用したanimationApp. 
 https://github.com/airbnb/lottie-ios. 
